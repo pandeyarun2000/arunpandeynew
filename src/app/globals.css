@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--cursor-color: #f5b94a;
+}
+
+html { scroll-behavior: smooth; }
+@keyframes dawn { 0%,100% { opacity: .55; transform: scale(1); } 50% { opacity: .95; transform: scale(1.08); } }
+.dawn { animation: dawn 7s ease-in-out infinite; }
+@media (prefers-reduced-motion: reduce) { .dawn { animation: none; } html { scroll-behavior: auto; } }

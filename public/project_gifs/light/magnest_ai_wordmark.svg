@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 160" role="img" aria-label="Magnest AI">
+<g transform="translate(34 30) scale(0.2)"><path fill="#0f172a" fill-rule="evenodd" d="M248 40 L415 228 Q423 238 423 252 V420 Q423 443 400 443 H98 Q75 443 75 420 V252 Q75 238 83 228 Z M249 175 A85 85 0 1 0 249.1 175 Z"/></g>
+<text x="150" y="88" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="58" fill="#0f172a">Magnest</text>
+<g transform="translate(152 100)" fill="#d9951a"><path d="M14 0 L17 10 L27 13 L17 16 L14 26 L11 16 L1 13 L11 10 Z"/><path d="M30 14 L32 20 L38 22 L32 24 L30 30 L28 24 L22 22 L28 20 Z" opacity="0.8"/></g>
+<text x="196" y="124" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="30" letter-spacing="6" fill="#d9951a">AI</text>
+</svg>
